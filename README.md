@@ -8,5 +8,5 @@ Per la cartella Esercizio_09 valgono le seguenti istruzioni per:
 	
 	cancellare i file prodotti: make clean
 	
-I valori figure, nun e genrations sono numeri interi che vanno passati da terminale. 
+I valori figure, num e generations sono numeri che vanno passati da terminale. 
 Per ulteriori informazioni leggere il file README.md nella cartella. 
